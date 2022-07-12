@@ -1,6 +1,4 @@
-# NodeJS-Sever
-
-### API Endpoints
+# API Endpoints
 | HTTP Verbs | Endpoints | Action |
 | --- | --- | --- |
 | GET | /api/getFiles | To retrieve all items in database |
